@@ -17,3 +17,10 @@
 - **Epic 7**: il tetto massimo per il livello di potere (sia lato PG che lato mondo) è il 7. Questo implica che il massimo livello degli incantesimi è il 4°, e che tutto il mondo rispetta queste regole;
 - **Punti Ispirazione++**: in aggiunta alle normali regole per ottenere i Punti Ispirazione, durante un Riposo Breve/Lungo è possibile effettuare una Scena di Riposo in cui i PG si relazionano con altri PG / PNG, per parlare o scambiarsi informazioni. Tutti i giocatori i cui PG effettuano una Scena di Riposo, ottengono automaticamente 1 Punto Ispirazione. Inoltre, non vi è un limite al numero di Punti Ispirazione che è possibile avere contemporaneamente;
 - **Punti Fiaba**: solo per azioni incredibili in cui il PG rischia il tutto per tutto per la riuscita di una sua azione, o che sacrifica qualcosa a cui tiene molto, il giocatore può ottenere 1 Punto Fiaba. I Punti Fiaba non sono cumulativi (massimo 1 PF per giocatore). Si può spendere il Punto Fiaba per poter introdurre un elemento NARRATIVO (non meccanico) che cambia gli eventi che stanno venendo narrati.
+
+## Incipit della Campagna
+Il mondo di Hydaelyn, ricco e variegato nelle sue differenti regioni che lo compongono, accoglie al centro del continente sulle vette dell'Altopiano Sacro il grande Albero Lucente, detto anche Albero del Mondo, o Albero della Vita a seconda dei luoghi di provenienza.
+
+Hydaelyn è una terra ricca di vita, dove non esistono dei ma spiriti protettivi con cui le civiltà convivono in armonia. Anche se vi sono attriti e numerosi litigi tra le popolazioni, le guerre non sono all'ordine del giorno non solo per il dispendio di risorse, ma anche perché una guerra di logoramento è quanto di più stancante ci possa essere, per cui i conflitti tendono quasi sempre a risolversi tramite il dialogo e la parola.
+
+Tuttavia, un'ombra inizia ad estendersi sull'Albero Lucente, e un'oscurità sempre maggiore sta avvolgere il mondo. Basterà la Luce dell'Albero a salvarlo?
