@@ -5,12 +5,20 @@
 - Luogo: The Sign 2.0 (Pomigliano D'Arco)
 - La sessione si rinvia solo se manca metà gruppo
 - Informare il prima possibile per qualsiasi contrattempo e/o imprevisto, e dare una risposta quando si organizza il giorno della sessione
-- Quando si inizia la sessione, non rompere il pathos andando off game spezzando il ritmo di gioco 
+- Massima attenzione a quello che accade durante la sessione (in particolar modo quando parla il master)
+- Siate i fan dei vostri personaggi e del vostro gruppo!
 
 ## Info della Campagna
 - Tono della campagna: seria
 - Livello di partenza: 1
 - Livello di arrivo: 7 (?)
+- Classi permesse: tutte
+- Razze permesse: tutte
+- Allineamenti permessi: tutti ad eccezione dei malvagi
+- Caratteristiche di partenza per i nuovi giocatori: 16 14 14 12 12 10 da distribuire come si vuole
+- Divinità presenti: nessuna, ma al loro posto potete fare affidamento sugli Spiriti della natura e del Feywild (se ne avete qualcuno in mente, potete parlarne con il master)
+- Per la costruzione del personaggio, si può procedere in autonomia e mostrare la scheda al master quando si è completato il tutto (una la tiene il master e una per comodità potete tenerla voi)
+
 
 ## Regole Homebrew
 - **Incremento intervallo periodo di Riposo**: i Riposi Brevi durano 8 ore invece di 1, i Riposi Lunghi durano 3 giorni invece di 1. Le regole per il Riposo sono le stesse, ma è concesso spendere tempo per allenarsi / studiare / fare attività di downtime che non sia rimettersi in cammino;
